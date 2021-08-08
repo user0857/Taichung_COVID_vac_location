@@ -67,6 +67,20 @@ def taichung_COVID_vaccine_clinic(website="https://www.cdc.gov.tw/Category/MPage
     return clinic_sorted_by_dist_dict
 
 
+def district_display(input_dict):
+
+    print("請輸入以下地區其一: ")
+    dist_cnt = 0
+    for key in input_dict.keys():
+        if dist_cnt == 10:
+            print(key)
+            dist_cnt = 0
+        else:
+            print(key, end=" ")
+            dist_cnt += 1
+    print()
+
+
 def main():
     """
 
@@ -81,6 +95,8 @@ def main():
     :return:
     """
     clinics_in_dist = taichung_COVID_vaccine_clinic()
+
+    district_display(clinics_in_dist)
 
     district = input("請輸入地區: ")
     while True:
