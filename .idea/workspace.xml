@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a9c1782-4648-40bc-97ea-38bc153cf231" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1wR5PQXuHIBZ0tvIb3cJjLh7Dn9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Python.Taichung_COVID19_vac_clinic">
+    <configuration name="Taichung_COVID19_vac_clinic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="台中市疫苗施打資訊" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/Algorithm/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Taichung_COVID19_vac_clinic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="台中市疫苗施打資訊" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/Algorithm/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="台中市疫苗施打資訊" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/Algorithm/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Taichung_COVID19_vac_clinic" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a9c1782-4648-40bc-97ea-38bc153cf231" name="Default Changelist" comment="" />
+      <created>1628408535798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628408535798</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Web_Browsers" timestamp="1628419834312">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Web_Browsers/0.0.1440.900@0.0.1440.900" timestamp="1628419834312" />
+    <state x="184" y="112" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628408775412">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1628408775412" />
+    <state x="443" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628409256716">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="443" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1628409256716" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1628410159412">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1628410145208" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.813@0.23.1440.813" timestamp="1628410159412" />
+    <state width="1419" height="771" key="GridCell.Tab.0.bottom" timestamp="1628421885809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="771" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1628421885809" />
+    <state width="1419" height="771" key="GridCell.Tab.0.center" timestamp="1628421885808">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="771" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1628421885808" />
+    <state width="1419" height="771" key="GridCell.Tab.0.left" timestamp="1628421885807">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="771" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1628421885807" />
+    <state width="1419" height="771" key="GridCell.Tab.0.right" timestamp="1628421885809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="771" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1628421885809" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1628419004438">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1628419004438" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1628408557240">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1628408557240" />
+  </component>
+</project>
